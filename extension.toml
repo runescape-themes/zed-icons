@@ -1,0 +1,7 @@
+id = "runescape-icon-theme"
+name = "RuneScape Icon Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["Ronas Lencevičius <contact@ronaldas.dev>"]
+description = "🏰 Old School RuneScape icon theme for Zed"
+repository = "https://github.com/runescape-themes/zed-icons"
